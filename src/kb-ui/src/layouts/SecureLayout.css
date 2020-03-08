@@ -1,0 +1,24 @@
+.logo {
+    height: 60px;
+    padding: 24px;
+    color: white;
+    font-weight: bold;
+}
+
+.secure-layout {
+    min-height: 100vh;
+}
+
+.secure-layout .layout-header {
+    background: #fff;
+    padding: 0px;
+    text-align: right;
+}
+
+.layout-header .header-item {
+    margin-right: 24px;
+}
+
+.secure-layout .layout-content {
+    margin: 0 16px;
+}
